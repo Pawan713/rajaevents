@@ -165,6 +165,19 @@
             </div>
           </div><!-- End Card Item -->
 
+
+           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="card h-100">
+              <div class="card-img">
+                <img src="assets/img/hotels-3.jpg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="#" class="stretched-link">Dolores ut ut voluptatibu</a></h3>
+              <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+              <p>0.6 Mile from the Venue</p>
+            </div>
+          </div><!-- End Card Item -->
+          
+
         </div>
 
       </div>
